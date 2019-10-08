@@ -1,7 +1,5 @@
 import React from "react";
-import { Connect } from "react-redux";
-import { connect } from "tls";
-import { stat } from "fs";
+import { connect } from "react-redux";
 
 class CoursesPage extends React.Component {
   state = {
